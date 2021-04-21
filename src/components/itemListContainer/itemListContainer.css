@@ -1,0 +1,9 @@
+.background {
+  background-color: black;
+  background-size: cover;
+}
+
+.itemListContainer {
+  font-size: 2rem;
+  align-items: center;
+}
