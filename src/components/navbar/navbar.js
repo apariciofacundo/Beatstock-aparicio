@@ -1,4 +1,4 @@
-
+import React from 'react'
 import './NavBar.css'
 import { CartWidget } from '../cartWidget/cartWidget'
 
